@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+tili
+tilit
+*.swp
+*.swo
